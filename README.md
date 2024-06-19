@@ -1,7 +1,7 @@
 ## Olá!
 
 - 🖥️ Estudando HTML, CSS e Javascript...
-- 🇯🇵 Aprendendo japonês, N5 
+- 🇯🇵 Japonês N5 
 - 📨 Contate-me no e-mail: mirellebeatriz7@gmail.com
 
 <div style="display: inline_block" align="center"><br>
