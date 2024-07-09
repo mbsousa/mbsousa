@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🖥️ Estudando HTML, CSS e Javascript...
+- 🖥️ Estudando HTML/CSS e Javascript...
 - 🇯🇵 Japonês N5
 - 🇺🇸 Inglês B1
 - 📨 Contate-me no e-mail: mirellebeatriz7@gmail.com
