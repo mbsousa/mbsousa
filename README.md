@@ -1,18 +1,16 @@
-## Olá!
+# 👋 Olá pessoal!
 
-- 🖥️ Estudando HTML/CSS e Javascript...
+- 🖥️ Sou apaixonada por desenvolvimento front-end e estou em constante busca por novos desafios e aprendizado. Atualmente, venho me dedicando ao estudo em React e JavaScript. 
 - 🇯🇵 Japonês N5
 - 🇺🇸 Inglês B1
 - 📨 Contate-me no e-mail: mirellebeatriz7@gmail.com
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ##
- 
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+# 🌐 Social
+
 <div> 
   <a href="https://www.instagram.com/mirellewb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mirellebeatriz7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,4 +24,9 @@
   <a href="https://beacons.ai/mbsousa">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbsousa&layout=compact&langs_count=16&theme=dark"/> 
 </div>
+    
+<br>
 
+<p>
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yMzNxbDJ0Ymx1em16emk0ZzQ2ZnVoanE0cWZmY21ieXpid3VlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.webp" alt="CL Thumb" border="0" width="60%" >
+</p>
