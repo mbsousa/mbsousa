@@ -18,11 +18,6 @@
 </div>
 
 <br>
-
-<div>
-  <a href="https://beacons.ai/mbsousa">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbsousa&layout=compact&langs_count=16&theme=dark"/> 
-</div>
     
 <br>
 
