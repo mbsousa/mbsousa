@@ -1,6 +1,6 @@
 # 👋 Olá pessoal!
 
-- 🖥️ Sou apaixonada por desenvolvimento front-end e estou em constante busca por novos desafios e aprendizado. Atualmente, venho me dedicando ao estudo em React e JavaScript. 
+- 🖥️ Sou apaixonada por desenvolvimento web estou constantemente em busca de novos desafios e aprendizados.  
 - 🇯🇵 Japonês N5
 - 🇺🇸 Inglês B1
 
