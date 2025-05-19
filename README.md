@@ -1,6 +1,6 @@
 
 # 💫 Hi stranger :) ! About Me:
-<br>🗄️ Atualmente estou fixando meus conhecimentos em SQL, com foco em PostgreSQL. Tenho me dedicado a entender melhor consultas, modelagem de dados e manipulação de banco de dados relacionais.<br>💻 Quando não estou codando, estou assistindo vídeos de hardware e manutenção, só por diversão!<br>
+<br>🗄️ Atualmente estou fixando meus conhecimentos em SQL, com foco em PostgreSQL. Tenho me dedicado a entender melhor consultas, modelagem de dados e manipulação de banco de dados relacionais.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mirellewb_/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirellebeatriz7@gmail.com) 
