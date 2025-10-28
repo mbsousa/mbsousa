@@ -1,4 +1,8 @@
 <div align="center" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=778899&reversal=true">
+</div>
+
+<div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493F8&width=900&size=22&center=true&lines=Hello!+;Be+welcome!" alt="Typing SVG"/>
 </div>
 
