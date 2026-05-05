@@ -5,8 +5,8 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4493F8&width=900&size=22&center=true&lines=Hello!+;Be+welcome!" alt="Typing SVG"/>
 </div>
-
-<p align='center'>No momento, venho me dedicando ao desenvolvimento de projetos corporativos, utilizando principalmente Flask.<br>Também estou explorando Node.js para ampliar meus conhecimentos em back-end, colaborando ativamente com a equipe onde trabalho.</p>
+<p align='center'>No momento, venho me dedicando ao desenvolvimento de projetos corporativos, utilizando principalmente Flask.
+<!-- <p align='center'>No momento, venho me dedicando ao desenvolvimento de projetos corporativos, utilizando principalmente Flask.<br>Também estou explorando Node.js para ampliar meus conhecimentos em back-end, colaborando ativamente com a equipe onde trabalho.</p> -->
 
 ## 🌐 Socials:
 <div align="center"><br>
