@@ -42,7 +42,9 @@
 
 </div>
 <p align='center'>
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yMzNxbDJ0Ymx1em16emk0ZzQ2ZnVoanE0cWZmY21ieXpid3VlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.webp" alt="CL Thumb" border="0" width="60%" >
+   <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yMzNxbDJ0Ymx1em16emk0ZzQ2ZnVoanE0cWZmY21ieXpid3VlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.webp" alt="CL Thumb" border="0" width="60%" >
+</p> -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN0eWo0d2JmNzhsMTNlZ3prb3Fnem02bnJqbTA3cG5xeWltMmpqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kN4cqH8y0M3zxoKfGQ/giphy.gif" alt="CL Thumb" border="0" width="60%" >
 </p>
 
 <picture>
